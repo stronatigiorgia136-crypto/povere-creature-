@@ -35,7 +35,7 @@ background: linear-gradient(90deg,rgba(220,236,244,.1), rgba(165,208,229,.5));}
 .contenitore-makeup {box-sizing: border-box;
 border: 2px solid white;
 padding:12px ;
-background-image: url("/Users/giorgiastronati/Desktop/PROGETI HTML/Progetto html-css/images/sfondo-colorato-mk.avif") ;
+background-image: url("images/sfondo-colorato-mk.avif") ;
 background-size: cover;
 margin: 20px;
 border-radius:3px;}
